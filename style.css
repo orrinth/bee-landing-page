@@ -7,7 +7,7 @@
 
 html, body {
     background: gold;
-    background: linear-gradient(0deg, rgba(255,215,0,0.4), rgba(255,215,0,0.4)), url(bee.jpg);
+    background: linear-gradient(0deg, rgba(255,215,0,0.4), rgba(255,215,0,0.4)), url(images/bee.jpg);
     background-size: cover;
     background-position: bottom right;
     background-attachment: fixed;
